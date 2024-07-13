@@ -1,9 +1,7 @@
-<h1 align="center">Hola 👋, Soy Juan José Boydo</h1>
+<h1 align="center">Hola! 👋, Soy Juan José Boydo</h1>
 <h3 align="center">Desarrollador web Full Stack</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjboydo" alt="jjboydo" /></a> </p>
-
-- 👨‍💻 Todos mis proyectos están en [https://jj-boydo.vercel.app/](https://jj-boydo.vercel.app/)
+- 👨‍💻 Todos mis proyectos en [https://jj-boydo.vercel.app/](https://jj-boydo.vercel.app/)
 
 - 📫 Puedes contactarme en **juanjoo1020@gmail.com**
 
